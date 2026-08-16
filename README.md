@@ -16,7 +16,7 @@ Programa upravleniya knizhnym magazinom na Java (Uchebnyy proekt)
 This repository is the result of a group project conducted as a team assignment.
 
 - **Development Environment**: Eclipse IDE 2024-09 R
-- **참여 인원**: 4 members
+- **Team Size**: 4 members
 - **My Role (Cringer1983)**: Designed and implemented the User Interface (UI) using Java Swing.
 
 > **[Notice]** 
