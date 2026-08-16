@@ -1,5 +1,5 @@
-# Projekt-kniga-Bookstore-management-
-Programa upravleniya knizhnym magazinom na Java (Uchebnyy proekt)
+# Bookstore Management System
+Java-based bookstore management program (Academic Group Project)
 
 ## 📖 About Project
 이 저장소는 팀 과제로 진행된 그룹 프로젝트 결과물입니다.
